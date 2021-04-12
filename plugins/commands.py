@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "✅ JOIN OUR GROUP", url="https://t.me/cinemagalaxy")
+                            "✅ JOIN OUR GROUP", url="https://t.me/cinemagalaxychat")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "📞 SUPPORT", url="https://t.me/cinemagalaxy")
+                            "📞 SUPPORT", url="https://t.me/Monuten007")
                     ]
                 ]
             ),
