@@ -3,13 +3,11 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+I'm Just A Simple Auto Filter Bot! Bot For Searching Files From Channel...
 
-This is Version 2 of Auto Filter Bot
+Just Sent Any Text I Will Search In All Connected Chat And Reply You With The Message link
 
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
+You Can Even Connect 3 Channels At A Time...
 
 For more click <i>help</i></b>"""
 
@@ -52,18 +50,11 @@ or
 No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
+"""
 
-<b>© @TroJanzHEX</b>"""
 
+    ABOUT_MSG = """I'm an auto filter bot!\n
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
-    
-⭕️<b>Creater :</b> @TroJanzHEX
-
-⭕️<b>Language :</b> <code>Python3</code>
-
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+I can pick the files/videos from the channel and send it in your group as buttons!
 
 """
